@@ -1,0 +1,9 @@
+Location code for Saudi Arabia-> ?geoUrn=%5B"100459316"%5D&sid=%3Bfg
+
+Location Code for Dubai->?geoUrn=%5B"106204383"%5D
+
+geo_id = "106204383"  # Dubai geoId
+base_url = f"https://www.linkedin.com/search/results/people/?keywords={search_query}&geoUrn=%5B%22{geo_id}%22%5D"
+
+
+&geoUrn=%5B%22{geo_id}%22%5D
