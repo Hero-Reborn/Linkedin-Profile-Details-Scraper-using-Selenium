@@ -20,8 +20,7 @@ chrome_options.add_argument("--start-maximized")
 driver = webdriver.Chrome(options=chrome_options)
 
 # LinkedIn credentials
-linkedin_email = "ishaanraj303@gmail.com"
-linkedin_password = "MAHI7784@"
+linkedin_email =
 
 # Log in to LinkedIn
 driver.get("https://www.linkedin.com/login")
